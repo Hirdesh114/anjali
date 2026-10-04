@@ -49,7 +49,7 @@ export const BIRTHDAY_CONFIG = {
     greeting: "Hey Anjali... 💗",
     subGreeting: "I made something special for you.",
     openSurpriseButton: "OPEN YOUR SURPRISE 🎁",
-    headline: "HAPPY BIRTHDAY, ANJALI - LOVE OF MY LIFE! 🎂💗",
+    headline: "HAPPY BIRTHDAY, ANJALI - LOML! 🎂💗",
     subheadline: "Today is all about you... yes, really!",
     heroImage: "/images/bestie/bestie1.jpg",
     heroCaption: "To Anjali — the girl who brings sunshine and chaotic energy everywhere she goes 🌸",
